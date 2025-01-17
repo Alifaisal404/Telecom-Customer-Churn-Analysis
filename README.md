@@ -1,7 +1,7 @@
 **Teco Customer Churn Analysis**
 
 Link for the dataset used:
-
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 **Summary aur Recommendations**  
 - **Objective:** Analysis ka maksad yeh samajhna hai ke kaunse factors customer churn ko asar andaz karte hain, khaas tor par payment methods aur contract types par focus karte huye.  
